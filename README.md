@@ -1,3 +1,5 @@
-# groccery_app
+# Bloc introduction
 
-A new Flutter project.
+An app built with Bloc(Business logic components).
+State management.
+item - cart - wishlist
